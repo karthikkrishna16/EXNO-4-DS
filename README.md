@@ -1,3 +1,6 @@
+NAME: TH KARTHIK KRISHNA
+
+REG NO: 212223240067
 # EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
